@@ -1,0 +1,151 @@
+internship_id,title,company,sector,required_skills,location_city,location_district_code,remote,seats,stipend,start_date,end_date
+1,Intern IT,Hayer LLC,Finance,"ml,nodejs",Kochi,BR12,True,4,7000,2025-11-04,2026-01-05
+2,Assistant IT,"Sodhi, Maharaj and Natt",Marketing,"nodejs,excel",Hyderabad,BR01,True,6,8000,2026-02-20,2026-05-26
+3,Trainee IT,"Raj, Vasa and Bhatt",Marketing,"sql,tableau",Kochi,BR01,False,7,8000,2025-11-18,2026-01-19
+4,Assistant Finance,"Salvi, Nadkarni and Anand",Marketing,"css,python,java,marketing",Navi Mumbai,BR15,True,6,8000,2026-02-15,2026-06-07
+5,Intern Consulting,Nagy Inc,Marketing,"react,html,powerbi,python",Hubli–Dharwad,MH01,False,6,8000,2025-11-14,2026-02-10
+6,Assistant HR,Anne-Rout,IT,"finance,marketing,html",Kulti,DL01,True,5,7000,2025-12-02,2026-03-20
+7,Intern Data Science,"Yohannan, Gera and Kamdar",Consulting,"html,python,negotiation",Machilipatnam,DL01,False,8,5000,2026-01-03,2026-04-07
+8,Trainee Data Science,Bhalla-Bose,Data Science,"communication,c++",Sambalpur,DL01,True,8,5000,2026-02-15,2026-05-07
+9,Trainee Marketing,"Cheema, Chadha and Keer",HR,"java,c,ml,tableau",Tirupati,BR01,True,6,5000,2026-02-11,2026-06-01
+10,Trainee Finance,"Sarma, Mutti and Chaudhuri",Marketing,"java,ml,sales",Bhusawal,BR15,True,6,7000,2026-02-15,2026-04-26
+11,Trainee Finance,"Banik, Thakur and Varghese",Data Science,"sales,nodejs,seo,powerbi",Mau,MH01,True,7,8000,2025-11-15,2026-02-28
+12,Intern Consulting,Deol-Sachdev,Finance,"marketing,tableau,css",Kochi,BR15,True,10,10000,2025-12-23,2026-04-20
+13,Trainee Sales,Guha-Soman,Sales,"react,javascript",Ongole,BR12,False,6,12000,2026-01-11,2026-05-01
+14,Assistant Data Science,Kalita-Bhardwaj,Data Science,"c,powerbi,react",Ongole,DL01,False,6,8000,2026-01-16,2026-03-22
+15,Intern Data Science,"Ahluwalia, Mutti and Date",Consulting,"tableau,nodejs,java,negotiation",Bhiwani,DL01,True,4,8000,2025-10-10,2026-02-07
+16,Assistant Marketing,Ravi LLC,Marketing,"react,tableau,sql,marketing",Burhanpur,MH01,False,6,10000,2026-03-01,2026-06-20
+17,Trainee HR,"Bedi, Vasa and Madan",HR,"tableau,communication",Aligarh,BR12,False,8,5000,2025-11-21,2026-02-08
+18,Trainee Sales,Lala PLC,Data Science,"marketing,communication,ml",Dhule,MH01,False,7,7000,2026-02-20,2026-05-19
+19,Intern Consulting,Nadkarni-Deep,Consulting,"negotiation,javascript,c++,nodejs",Aurangabad,DL01,False,6,10000,2026-02-27,2026-05-08
+20,Trainee IT,Khanna and Sons,Marketing,"c,python",Rajkot,DL01,False,6,5000,2026-02-03,2026-05-20
+21,Trainee Sales,Morar Ltd,Consulting,"tableau,sales,negotiation",Hazaribagh,MH01,False,5,10000,2025-10-01,2026-01-01
+22,Trainee HR,"Vyas, Kumer and Ratti",Marketing,"css,c++",Motihari,BR12,False,7,8000,2025-11-15,2026-02-19
+23,Assistant Sales,Deep-Kara,Data Science,"negotiation,c",Gurgaon,BR01,False,2,10000,2026-02-02,2026-05-22
+24,Trainee Sales,Bali Ltd,Finance,"finance,css,sql",Sambhal,DL01,False,10,10000,2026-01-05,2026-04-06
+25,Intern Marketing,Dara Ltd,Finance,"finance,marketing,c++",Moradabad,BR15,True,7,12000,2025-09-17,2025-11-27
+26,Intern HR,"Dhingra, Deol and Randhawa",Sales,"tableau,seo",Orai,MH01,False,5,12000,2025-12-24,2026-02-28
+27,Assistant Consulting,Chad-Taneja,Consulting,"tableau,html,python",Proddatur,BR15,False,2,7000,2025-12-20,2026-03-03
+28,Assistant Finance,Cheema Group,Data Science,"sql,powerbi,ml",Mira-Bhayandar,DL01,False,2,10000,2025-09-16,2025-12-14
+29,Trainee HR,Kapur Group,HR,"html,c++,javascript,c",Gwalior,DL01,False,5,7000,2026-03-01,2026-05-06
+30,Assistant Finance,Banik-Seshadri,Consulting,"sql,java,python,tableau",Bhilwara,DL01,True,8,12000,2025-10-07,2025-12-25
+31,Assistant Finance,Golla-Venkataraman,Sales,"html,marketing",Ludhiana,DL01,True,6,5000,2025-09-11,2025-11-10
+32,Intern HR,Parsa-Pillai,Sales,"css,sql,seo,sales",Malegaon,BR12,True,4,12000,2025-11-10,2026-02-20
+33,Trainee HR,Ghose and Sons,Data Science,"communication,negotiation,powerbi,marketing",Hosur,BR01,False,7,8000,2025-12-26,2026-02-24
+34,Trainee Data Science,Sengupta-Muni,Consulting,"finance,html",Bhimavaram,BR12,False,2,8000,2025-11-07,2026-01-07
+35,Intern Consulting,"Kunda, Bora and Taneja",Consulting,"seo,powerbi,react",Yamunanagar,MH01,True,10,5000,2026-02-13,2026-05-09
+36,Intern Marketing,"Nadig, Garg and Swaminathan",Data Science,"seo,sql",Karaikudi,DL01,True,8,12000,2026-02-08,2026-05-17
+37,Intern Marketing,Buch Group,Finance,"negotiation,sales,communication",Shivpuri,BR01,False,9,10000,2025-10-02,2026-01-29
+38,Assistant Consulting,"Goswami, Rama and Shah",Sales,"sql,react,sales,ml",Kadapa,BR01,False,4,8000,2025-12-08,2026-04-06
+39,Intern HR,Barman Ltd,Data Science,"c++,nodejs,tableau,negotiation",Bareilly,BR01,True,10,12000,2025-11-07,2026-02-21
+40,Trainee Sales,"Badami, Anand and Patil",IT,"python,sales,react,c++",Jamnagar,MH01,True,9,7000,2025-11-24,2026-02-25
+41,Intern Finance,Peri Ltd,Sales,"nodejs,communication,c++",Dhanbad,BR15,False,10,10000,2025-10-03,2026-01-16
+42,Assistant Marketing,Kohli Inc,Sales,"java,sql,c++,ml",Malegaon,BR12,False,4,8000,2026-02-13,2026-05-27
+43,Assistant Finance,"Barad, Shan and Wali",IT,"seo,html,sql,nodejs",North Dumdum,BR12,True,3,12000,2026-01-16,2026-03-17
+44,Trainee HR,"Kapur, Dhar and Saran",IT,"python,sql",Nellore,BR12,True,2,5000,2026-02-28,2026-05-28
+45,Assistant IT,Golla-Nazareth,HR,"seo,css,react,javascript",Srikakulam,BR12,True,10,8000,2025-12-12,2026-03-12
+46,Intern HR,"Vasa, Kapoor and Subramanian",Data Science,"sql,excel,java,sales",Bhusawal,BR12,True,5,12000,2025-09-10,2025-11-12
+47,Assistant IT,"Rout, Choudhry and Bhandari",Finance,"java,html",Ludhiana,MH01,True,8,7000,2025-10-19,2026-01-25
+48,Assistant Data Science,Luthra-Nayar,Consulting,"marketing,java",Kalyan-Dombivli,BR15,True,7,12000,2025-09-06,2026-01-04
+49,Trainee IT,"Bera, Dyal and Arya",Finance,"c++,powerbi",Kolhapur,BR01,True,8,8000,2026-02-28,2026-05-10
+50,Intern Marketing,Vala and Sons,Data Science,"c++,negotiation,nodejs,html",Gaya,BR01,False,7,12000,2025-10-08,2026-01-16
+51,Trainee HR,Nair Inc,HR,"ml,c",Dindigul,DL01,True,8,7000,2025-12-16,2026-02-28
+52,Assistant Consulting,"Keer, Jaggi and Rajagopal",Marketing,"finance,c++",Mysore,MH01,True,3,10000,2025-12-27,2026-04-02
+53,Assistant HR,"Badami, Vala and Bora",Data Science,"seo,java",Bihar Sharif,BR12,False,5,7000,2026-02-05,2026-06-05
+54,Trainee Consulting,Kata Group,Marketing,"sql,negotiation",Guntur,MH01,False,7,8000,2025-10-09,2026-02-05
+55,Intern Finance,"Kamdar, Chhabra and Kota",Sales,"tableau,ml",Kishanganj,MH01,True,10,7000,2025-12-17,2026-04-12
+56,Intern IT,Mander PLC,Marketing,"negotiation,c",Junagadh,BR15,False,6,8000,2026-01-26,2026-05-17
+57,Intern Finance,Pant-Narasimhan,IT,"ml,java,marketing",Visakhapatnam,BR12,True,6,5000,2025-11-07,2026-01-30
+58,Intern Finance,Sheth-Kar,Marketing,"c++,powerbi,css,excel",Bhind,DL01,True,4,10000,2025-11-22,2026-01-24
+59,Intern HR,"Ramakrishnan, Salvi and Kamdar",HR,"negotiation,c",Dhanbad,DL01,False,9,7000,2026-02-04,2026-04-15
+60,Intern Consulting,Karpe Inc,Data Science,"tableau,marketing,excel,javascript",Gwalior,BR12,True,7,5000,2025-12-14,2026-02-15
+61,Assistant HR,Nadkarni-Garg,Sales,"powerbi,css",Tiruppur,DL01,False,3,5000,2025-10-14,2025-12-18
+62,Trainee Sales,Aurora-Sampath,Sales,"nodejs,finance,excel",Bidar,BR12,False,4,8000,2026-01-20,2026-04-25
+63,Assistant IT,Oommen and Sons,HR,"c,finance,react,marketing",Indore,MH01,True,6,12000,2025-12-31,2026-04-27
+64,Assistant Data Science,Narasimhan Ltd,Sales,"powerbi,tableau,c,java",Tinsukia,MH01,True,6,12000,2025-12-06,2026-02-09
+65,Intern IT,"Sekhon, Dhaliwal and Datta",HR,"c++,react,finance,html",Bikaner,BR12,True,9,7000,2025-11-25,2026-03-20
+66,Intern Finance,Mahajan-Suresh,Data Science,"html,react,css,ml",Muzaffarpur,BR12,False,9,5000,2025-10-14,2025-12-25
+67,Trainee HR,"Khalsa, Shetty and Choudhury",IT,"marketing,tableau,seo,sql",Bhubaneswar,BR12,True,4,5000,2026-02-26,2026-06-07
+68,Intern Consulting,"Misra, Contractor and Kala",Consulting,"css,sql,seo,nodejs",Chennai,BR01,False,5,5000,2025-09-11,2025-11-25
+69,Trainee Sales,"Sachdev, Shroff and Sandhu",Marketing,"finance,sql,marketing",Tiruchirappalli,MH01,True,8,5000,2025-10-24,2026-02-08
+70,Assistant Sales,Dugar-Banik,Data Science,"communication,nodejs",Motihari,BR01,True,4,10000,2025-10-10,2026-01-04
+71,Intern Finance,"Saini, Muni and Parekh",Finance,"seo,c++,marketing",Noida,BR15,True,2,10000,2025-10-01,2026-01-07
+72,Assistant Data Science,"Raman, Yadav and Kaul",Finance,"sql,tableau,communication,excel",Sonipat,BR15,True,7,8000,2025-10-08,2025-12-14
+73,Assistant Consulting,Gopal Group,Consulting,"negotiation,marketing,c",Bikaner,BR01,False,7,8000,2026-01-18,2026-03-23
+74,Assistant Finance,Bava LLC,Consulting,"excel,c,c++",Nashik,BR12,True,8,8000,2025-12-06,2026-03-03
+75,Intern Marketing,Ghose-Banik,Data Science,"nodejs,marketing,seo,communication",Anantapuram,BR15,True,7,8000,2025-10-15,2026-01-21
+76,Trainee HR,"Nazareth, Pai and Dube",Data Science,"sales,python,javascript,java",Davanagere,BR01,False,10,8000,2026-02-20,2026-06-02
+77,Intern Finance,Borde Ltd,Data Science,"html,powerbi",Hindupur,MH01,False,3,5000,2025-09-03,2025-12-07
+78,Trainee Consulting,"Hegde, Sawhney and Doctor",Consulting,"excel,react,python,sales",Imphal,DL01,True,2,12000,2025-11-20,2026-02-09
+79,Assistant Sales,Ravi and Sons,IT,"c,react,sql,finance",Muzaffarnagar,BR12,True,8,5000,2026-01-22,2026-04-10
+80,Assistant HR,Ramakrishnan Ltd,Marketing,"nodejs,react",Bhiwani,MH01,True,6,8000,2025-12-25,2026-03-20
+81,Assistant HR,Toor PLC,Data Science,"powerbi,java,css",Amaravati,MH01,True,5,12000,2025-11-23,2026-03-20
+82,Intern HR,"Sarna, Bumb and Oza",Consulting,"javascript,seo,nodejs,tableau",Junagadh,MH01,False,6,5000,2025-11-30,2026-02-01
+83,Trainee Sales,Tara and Sons,Data Science,"c++,seo,java,nodejs",Tumkur,MH01,False,8,12000,2026-01-31,2026-04-09
+84,Trainee Consulting,"Sankaran, Khanna and Prasad",Finance,"sales,seo,finance,css",Adoni,DL01,False,5,8000,2025-10-30,2026-01-16
+85,Trainee HR,Dhar and Sons,Finance,"tableau,marketing",Mahbubnagar,MH01,False,4,12000,2025-10-17,2025-12-26
+86,Assistant IT,"Balakrishnan, Kala and Brahmbhatt",Sales,"powerbi,seo,tableau",Srikakulam,BR01,True,6,7000,2026-01-14,2026-04-12
+87,Assistant Marketing,"Chandran, Bains and Chada",Data Science,"powerbi,excel,c++,ml",Bhiwandi,BR01,False,8,10000,2025-10-25,2026-01-29
+88,Assistant Marketing,Chhabra-Manne,Consulting,"javascript,seo,marketing,tableau",Lucknow,MH01,False,8,10000,2025-11-29,2026-03-09
+89,Intern Finance,Dhar Group,HR,"marketing,sql,css,seo",Nadiad,BR12,True,9,5000,2025-12-02,2026-03-31
+90,Intern Finance,"Om, Mittal and Setty",IT,"react,nodejs,ml",Bettiah,BR12,False,2,7000,2025-09-14,2025-11-27
+91,Intern Finance,"Upadhyay, Luthra and Goel",HR,"sales,finance,react,javascript",Ramgarh,MH01,True,3,12000,2025-09-04,2025-11-16
+92,Intern Consulting,Nair LLC,HR,"python,marketing,excel",Bhiwandi,DL01,False,9,12000,2026-02-05,2026-05-27
+93,Intern IT,Chauhan-Ramesh,Sales,"sql,c,negotiation",Narasaraopet,DL01,False,6,8000,2025-11-28,2026-03-11
+94,Intern Consulting,"Sami, Jain and Chander",Sales,"seo,negotiation",Barasat,DL01,True,7,12000,2025-09-12,2025-12-10
+95,Trainee Finance,Toor PLC,Sales,"powerbi,c++",Jamalpur,MH01,True,10,10000,2025-09-17,2025-12-09
+96,Assistant Data Science,"Mukhopadhyay, Rajan and Pai",Data Science,"finance,javascript",Bharatpur,BR15,False,5,10000,2025-11-24,2026-02-07
+97,Intern Sales,"Goda, Dugar and Patla",Marketing,"nodejs,ml",Chandigarh,BR01,True,6,5000,2025-11-08,2026-01-30
+98,Trainee Finance,"Chandran, Badami and Shukla",Marketing,"marketing,c",Panvel,BR12,True,3,12000,2026-02-14,2026-06-05
+99,Trainee HR,Menon-Talwar,Sales,"communication,sales,marketing",Shahjahanpur,BR01,False,2,12000,2025-12-04,2026-02-22
+100,Intern Finance,Dugal-Sastry,HR,"c++,javascript,css,python",Udupi,BR01,False,9,5000,2026-02-15,2026-05-12
+101,Assistant Marketing,Thakur-Kapur,Sales,"tableau,java,communication",Kakinada,BR12,True,5,12000,2026-02-27,2026-05-05
+102,Assistant HR,Aurora LLC,Consulting,"css,marketing,powerbi,negotiation",Dhanbad,BR01,True,10,7000,2025-11-07,2026-01-31
+103,Trainee Consulting,Chatterjee and Sons,Marketing,"python,ml,powerbi",Bhiwani,MH01,True,4,10000,2025-10-05,2026-01-11
+104,Assistant Sales,Narayan-Murty,Data Science,"sales,python,negotiation,javascript",Mahbubnagar,DL01,False,9,7000,2025-12-02,2026-02-03
+105,Assistant Sales,"Pai, Dhaliwal and Grover",Data Science,"c,sql,sales,css",Junagadh,BR15,True,4,12000,2025-12-27,2026-04-22
+106,Trainee Finance,"Zachariah, Singh and Singh",HR,"c++,c",Kavali,BR01,False,9,8000,2025-12-20,2026-03-05
+107,Trainee Consulting,"Kapadia, Chaudhari and Varghese",Data Science,"marketing,seo",Rajkot,BR12,True,6,12000,2025-10-04,2025-12-12
+108,Trainee IT,Gola Inc,Consulting,"ml,python,tableau,communication",Tiruppur,BR15,False,8,10000,2025-11-04,2026-02-07
+109,Intern Data Science,Sarna Inc,IT,"c,html,javascript",Saharanpur,BR12,False,9,5000,2026-02-01,2026-05-23
+110,Assistant IT,Borah-Pradhan,IT,"ml,marketing,c",Gandhinagar,BR15,True,6,10000,2025-09-07,2025-12-13
+111,Intern IT,"Krishnamurthy, Patla and Shanker",HR,"html,sql,sales,ml",Shahjahanpur,DL01,True,8,8000,2025-09-27,2025-12-27
+112,Intern HR,Dixit-Patil,Data Science,"seo,nodejs,tableau,ml",Adoni,BR15,False,9,10000,2025-10-05,2026-01-08
+113,Assistant Consulting,Mangat and Sons,IT,"marketing,javascript",Barasat,BR12,False,3,5000,2025-09-06,2025-12-26
+114,Assistant Marketing,Raju Ltd,Sales,"tableau,ml,excel,sql",Satara,BR12,True,9,7000,2026-02-13,2026-06-03
+115,Intern IT,Ramesh-Sharma,Consulting,"nodejs,python",Bhavnagar,BR01,True,5,7000,2025-10-30,2026-02-01
+116,Trainee Data Science,Yogi-Saha,Sales,"css,java",Mango,DL01,True,9,10000,2026-02-01,2026-05-15
+117,Trainee Data Science,Bhasin Group,Consulting,"sales,c++,html,excel",Avadi,BR15,False,8,7000,2025-09-23,2026-01-21
+118,Intern Data Science,Mody and Sons,Finance,"css,tableau,java,nodejs",Surendranagar Dudhrej,BR12,False,9,7000,2026-02-09,2026-05-30
+119,Intern Sales,Wagle and Sons,HR,"communication,tableau",Bhubaneswar,BR01,True,2,12000,2026-01-09,2026-04-25
+120,Trainee Sales,"Dave, Kalita and Sachdev",IT,"powerbi,sales,finance,nodejs",Tiruppur,BR01,False,9,5000,2026-02-06,2026-06-02
+121,Assistant Marketing,"Ravi, Murthy and Dutta",Marketing,"seo,marketing",Khammam,MH01,False,3,5000,2026-01-29,2026-05-06
+122,Intern HR,Nagar-Pandit,Sales,"marketing,nodejs",Anand,DL01,False,2,10000,2025-10-17,2025-12-20
+123,Intern Finance,"Narang, Memon and Muni",Marketing,"excel,seo",Madurai,DL01,True,3,10000,2025-10-08,2026-02-01
+124,Assistant HR,Mani-Sachdeva,HR,"powerbi,html,nodejs",Khora ,DL01,False,2,10000,2026-01-24,2026-04-11
+125,Intern Consulting,Chaudhari and Sons,HR,"c++,excel,tableau,css",Anand,BR01,True,7,12000,2025-10-07,2026-01-27
+126,Intern Finance,Raj-Jaggi,Marketing,"java,finance,marketing,react",Shimla,MH01,True,5,7000,2025-09-01,2025-11-09
+127,Trainee IT,Bali Group,Sales,"javascript,html,react",Gwalior,BR15,False,6,8000,2025-10-10,2025-12-13
+128,Trainee Sales,Das Ltd,Sales,"negotiation,c++,sql",Bharatpur,DL01,True,5,10000,2025-12-16,2026-04-11
+129,Trainee Data Science,Pillai-Parmar,Sales,"react,negotiation,sql",Sasaram,BR12,True,5,12000,2025-10-02,2026-01-14
+130,Intern Marketing,Panchal and Sons,Data Science,"powerbi,tableau",Moradabad,BR15,False,3,7000,2026-01-02,2026-04-26
+131,Assistant Sales,Bath-Chawla,Marketing,"javascript,marketing,excel",Amravati,BR01,False,10,7000,2025-12-06,2026-02-12
+132,Trainee Marketing,Gupta PLC,Sales,"c,javascript,html,powerbi",Jaunpur,BR15,False,9,12000,2026-01-03,2026-04-04
+133,Trainee HR,Talwar Ltd,Finance,"nodejs,c",Rourkela,BR12,False,4,12000,2025-11-19,2026-02-13
+134,Intern Consulting,"Cherian, Chaudhry and Jain",IT,"tableau,c,marketing",Sultan Pur Majra,BR12,False,3,7000,2026-01-09,2026-03-30
+135,Trainee Data Science,Shanker-Talwar,Sales,"negotiation,seo,marketing",Nandyal,MH01,True,10,12000,2025-09-25,2026-01-04
+136,Intern Consulting,Talwar-Thaman,Finance,"java,javascript,css",Hapur,BR12,True,10,8000,2025-09-20,2025-12-24
+137,Trainee Sales,Mand-Grover,IT,"marketing,javascript",Nizamabad,MH01,False,6,7000,2025-10-04,2025-12-17
+138,Intern Finance,Butala Ltd,Finance,"sales,nodejs,css",Karimnagar,BR01,True,10,12000,2025-12-09,2026-02-10
+139,Trainee Data Science,Puri-Khurana,Consulting,"communication,java,css",Hajipur,BR12,True,8,10000,2025-11-22,2026-01-27
+140,Intern HR,Vohra-Mane,Data Science,"c,negotiation",Raichur,BR12,True,4,5000,2026-02-28,2026-06-20
+141,Assistant HR,Dasgupta-Anand,IT,"excel,react,javascript,css",Chapra,BR12,True,10,7000,2025-09-11,2025-12-20
+142,Intern Data Science,Bhat-Khosla,Sales,"sql,nodejs,ml",Jorhat,BR01,False,9,7000,2026-01-14,2026-04-03
+143,Trainee Finance,Sarin LLC,Data Science,"excel,tableau",Patiala,DL01,False,6,5000,2025-10-21,2026-01-28
+144,Intern Marketing,Panchal Group,Consulting,"c++,css,react,negotiation",Belgaum,BR12,False,2,5000,2025-11-29,2026-03-24
+145,Assistant HR,Magar-Sant,Marketing,"marketing,seo,ml,powerbi",Tiruvottiyur,BR12,False,9,8000,2025-10-26,2026-01-10
+146,Trainee IT,Johal-Sunder,Finance,"excel,communication,nodejs,html",Shivpuri,BR01,False,6,8000,2025-09-25,2026-01-13
+147,Assistant Marketing,Buch-Deshmukh,Finance,"react,python",Hindupur,DL01,False,2,10000,2026-01-12,2026-05-01
+148,Trainee Data Science,Sathe-Virk,HR,"java,javascript,negotiation",Hapur,BR12,True,8,8000,2025-10-07,2026-01-15
+149,Intern Finance,Bumb-Swaminathan,Consulting,"html,seo,css",Kadapa,MH01,True,2,8000,2026-01-10,2026-04-11
+150,Assistant Consulting,Ravi-Yohannan,Consulting,"ml,python",Siwan,BR01,True,4,12000,2026-01-17,2026-05-04

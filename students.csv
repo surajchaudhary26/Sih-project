@@ -1,0 +1,251 @@
+student_id,name,age,gender,category,district_code,education,skills,experience_months,past_internships
+1,Pooja Pau,25,F,GEN,BR15,MBA,"java,css,c",5,2
+2,Kamala Purohit,25,F,OBC,MH01,BTech IT,"sales,communication,sql,powerbi,ml",21,1
+3,Bahadurjit Din,24,F,ST,BR15,BA,"css,excel",2,0
+4,Nitara Jani,23,M,ST,DL01,BTech IT,"java,powerbi,excel",14,2
+5,Indira Bansal,25,M,ST,BR01,BA,"java,tableau,c++,react,python",1,2
+6,Girindra Dalal,22,F,SC,BR12,BA,"tableau,excel,sql,javascript",16,1
+7,Logan Boase,22,F,GEN,MH01,BSc CS,"sales,marketing,c,ml",11,1
+8,Damini Balasubramanian,22,M,GEN,DL01,BCom,"excel,nodejs,excel,sales",12,0
+9,Charvi Tripathi,20,F,SC,BR12,MBA,"javascript,finance,excel",7,2
+10,Advika Bhagat,22,F,ST,BR15,BA,"tableau,communication,c",18,0
+11,Neelima Sawhney,20,F,GEN,MH01,BSc CS,"excel,react,python",20,1
+12,Kalpit Bala,25,M,ST,DL01,BSc CS,"java,ml,powerbi,react",15,2
+13,Pranit Gaba,21,F,SC,BR01,BSc CS,"react,powerbi,marketing",14,2
+14,Upkaar Chaudry,24,M,OBC,DL01,BSc CS,"negotiation,sql,c",7,2
+15,Faqid Bhandari,25,F,ST,MH01,BA,"html,excel,powerbi,css",14,2
+16,Akshay Samra,22,M,SC,DL01,BTech IT,"nodejs,sales,python,java",19,1
+17,Qushi Gala,20,F,GEN,BR12,BCom,"excel,seo",12,2
+18,Aarna Chacko,20,F,SC,DL01,BTech IT,"marketing,tableau,seo,react,javascript",10,0
+19,Zayyan Palla,22,F,OBC,DL01,BA,"javascript,nodejs,marketing,ml,tableau",7,0
+20,Peter Atwal,22,M,GEN,BR12,Diploma,"python,c",2,1
+21,Abdul Prabhu,23,M,OBC,BR15,Diploma,"c,marketing,excel,java",15,1
+22,Chatresh Swaminathan,22,F,GEN,BR15,Diploma,"css,finance,marketing,powerbi",7,1
+23,Rudra Mahal,24,M,GEN,DL01,Diploma,"java,excel,powerbi",7,0
+24,Yutika Boase,20,M,OBC,DL01,BSc CS,"css,finance,tableau",22,0
+25,Chavvi Rajan,23,M,SC,BR12,BSc CS,"java,ml,nodejs",19,2
+26,Saanvi Khare,24,M,SC,DL01,BA,"communication,c++,html,nodejs",17,2
+27,Odika Sani,23,F,ST,BR01,BCom,"c++,communication,powerbi",11,0
+28,Aadhya Mander,24,M,ST,BR15,Diploma,"marketing,excel,react",6,0
+29,Anjali Wagle,21,M,GEN,BR01,MBA,"finance,sql,sales,c",10,1
+30,Noah Kunda,24,M,OBC,DL01,BA,"negotiation,c",6,2
+31,Ekiya Edwin,25,M,GEN,DL01,BA,"python,finance,excel,javascript",11,2
+32,Faqid Nanda,21,M,OBC,BR12,BTech IT,"javascript,react",12,2
+33,Owen Vasa,20,M,GEN,BR15,BA,"sql,css,sales",23,2
+34,Triveni Sule,24,F,GEN,MH01,BCom,"sales,python,html",21,2
+35,Kalpit Sane,24,M,ST,BR15,BA,"sql,html,finance,communication,python",15,1
+36,Gavin Kata,21,M,GEN,BR01,BA,"marketing,powerbi",15,2
+37,Agastya Nagy,24,M,GEN,DL01,BTech IT,"react,html,communication,excel",24,2
+38,Luke Dutt,24,M,SC,BR01,BSc CS,"ml,html,sales",4,2
+39,Chandran Sundaram,23,F,OBC,DL01,MBA,"javascript,finance,css,tableau",10,1
+40,Oeshi Andra,21,F,OBC,BR01,Diploma,"ml,nodejs,sales,excel",14,0
+41,Orinder Bhatia,23,M,SC,BR01,BTech IT,"sql,powerbi,negotiation",1,0
+42,Yashawini Iyengar,22,F,GEN,DL01,MBA,"communication,marketing",20,0
+43,Kiaan Dutta,24,M,GEN,MH01,MBA,"java,react,c,seo",15,0
+44,Rachana Sarin,20,F,ST,DL01,Diploma,"c,java",18,0
+45,Hemangini Mohan,22,M,ST,MH01,BCom,"powerbi,css",20,1
+46,Balveer Banerjee,21,F,SC,BR15,BA,"c,ml",5,2
+47,Noah Ranganathan,21,F,GEN,BR15,BA,"ml,nodejs",24,2
+48,Omkaar Minhas,23,F,ST,BR15,Diploma,"marketing,finance,react",16,1
+49,Timothy Kant,22,M,SC,BR01,BA,"css,python,negotiation,seo,communication",19,2
+50,Jhalak Basu,20,M,ST,BR01,BCom,"sales,tableau",18,2
+51,Nihal Kapoor,24,F,OBC,BR01,MBA,"excel,sales,c++,seo",13,1
+52,Theodore Sehgal,25,M,GEN,MH01,BTech IT,"negotiation,seo,c",19,0
+53,Vaishnavi Dhar,20,M,ST,DL01,BSc CS,"java,tableau,sql,sales",18,0
+54,Om Varughese,20,F,GEN,MH01,Diploma,"communication,c++",3,2
+55,Mason Tak,23,F,GEN,MH01,Diploma,"c,excel",12,2
+56,Banjeet Choudhry,24,F,SC,BR01,BTech IT,"c,excel",24,2
+57,Geetika Bansal,24,M,OBC,BR15,MBA,"ml,python,c",15,0
+58,Sanya Grewal,21,M,GEN,BR01,BTech IT,"css,sql",19,0
+59,Aahana Mistry,24,F,GEN,BR15,Diploma,"sales,java",14,0
+60,Daksha Chanda,21,F,ST,BR15,BCom,"c++,tableau",22,1
+61,Amaira Chanda,21,F,GEN,MH01,BA,"c++,powerbi,excel,marketing",0,0
+62,Wyatt Ganesh,23,F,OBC,BR01,BSc CS,"seo,powerbi,sales,java",21,2
+63,Libni Rana,20,M,OBC,DL01,Diploma,"sql,excel,javascript,java,seo",15,1
+64,Bimala Bhasin,20,M,OBC,DL01,Diploma,"javascript,communication,html,marketing",14,2
+65,Frado Srinivas,23,M,OBC,BR01,BTech IT,"communication,ml,powerbi,negotiation,javascript",18,2
+66,Onkar Sunder,25,M,ST,BR15,BSc CS,"communication,tableau",16,2
+67,Daksha Toor,23,F,SC,BR12,BTech IT,"c,sql,nodejs,excel,negotiation",16,0
+68,Nachiket Munshi,22,F,ST,BR15,Diploma,"c++,ml",13,2
+69,Watika Bobal,20,M,SC,MH01,BA,"excel,sales",0,1
+70,Jackson Misra,21,F,ST,DL01,BSc CS,"javascript,tableau,ml",1,1
+71,Tanay Modi,21,F,OBC,DL01,Diploma,"c,javascript,excel,nodejs",9,0
+72,Yashawini Brahmbhatt,22,M,GEN,BR15,MBA,"python,marketing",14,0
+73,Chanakya Om,20,F,OBC,BR15,BSc CS,"powerbi,marketing",8,0
+74,Harshil Cheema,24,F,ST,BR01,BA,"c,marketing,excel,sql,negotiation",22,1
+75,Pallavi Wali,23,M,OBC,BR01,Diploma,"ml,html",24,1
+76,Naveen Baria,25,F,SC,MH01,BSc CS,"python,powerbi",19,0
+77,Chakradev Gulati,21,F,SC,MH01,BTech IT,"tableau,marketing,css",7,2
+78,Wakeeta Dani,21,F,OBC,MH01,Diploma,"html,communication,css",20,0
+79,William Raman,23,M,OBC,BR12,BSc CS,"sql,html,python",12,2
+80,Krisha Nagarajan,25,F,OBC,BR01,Diploma,"ml,sales,communication",11,1
+81,Omaja Nayar,24,F,OBC,BR12,BA,"python,sql,java,c++,react",20,2
+82,Abha Sahni,20,F,ST,BR12,BA,"html,ml,python,seo",13,1
+83,Vansha Das,22,F,OBC,DL01,BSc CS,"python,nodejs",6,2
+84,Dominic Sundaram,20,F,SC,BR12,BTech IT,"javascript,nodejs,react",12,0
+85,Abdul Khatri,20,F,ST,DL01,BCom,"marketing,seo,html,communication",13,1
+86,Azad Ratti,22,F,OBC,MH01,BA,"seo,excel,communication,java,sales",10,2
+87,Vincent Babu,22,F,OBC,BR12,BCom,"excel,sql,excel",3,1
+88,Aayush Misra,24,F,SC,BR12,BCom,"python,html,communication",9,2
+89,Pahal More,23,F,SC,DL01,BA,"java,python,sales",21,2
+90,Anamika Saxena,21,F,OBC,BR01,MBA,"html,seo,sql",23,1
+91,Oviya Nazareth,22,F,ST,BR12,Diploma,"react,nodejs,css",10,0
+92,Om Tata,22,F,ST,BR12,BSc CS,"react,marketing,c++",10,2
+93,Gauri Dube,22,F,GEN,DL01,BCom,"python,sales,seo,marketing",24,1
+94,Anusha Choudhry,24,F,ST,MH01,BA,"communication,excel,css",18,0
+95,Kamala Shukla,20,M,SC,BR12,BCom,"c++,java,nodejs,ml,css",5,0
+96,Mugdha Shan,25,M,GEN,MH01,BA,"css,powerbi,react",18,0
+97,Dalbir Lad,25,M,OBC,MH01,BSc CS,"python,ml,excel,javascript,marketing",22,0
+98,Isaac Batra,20,M,SC,MH01,BSc CS,"javascript,c,python,communication,negotiation",7,1
+99,Qarin Dube,21,F,ST,BR12,BSc CS,"excel,negotiation,c,css,java",16,0
+100,Devika Ramesh,23,F,OBC,MH01,BSc CS,"html,react",10,2
+101,Radha Ghosh,20,M,GEN,BR01,Diploma,"excel,finance",18,2
+102,Dev Prakash,24,M,OBC,DL01,MBA,"sales,c",15,1
+103,Sai Ben,23,F,OBC,DL01,BSc CS,"python,seo",20,1
+104,Harini Garg,23,F,ST,MH01,MBA,"sales,excel,react",4,1
+105,Vedhika Chokshi,20,F,ST,BR01,BCom,"html,c,sql,negotiation,tableau",24,2
+106,Triya Gupta,23,M,SC,MH01,BSc CS,"python,negotiation",10,0
+107,Vrinda Vala,25,F,GEN,MH01,BCom,"excel,marketing",2,2
+108,Warjas Bobal,25,M,SC,DL01,BA,"html,excel,ml,c",3,0
+109,Chasmum Kapoor,23,F,ST,DL01,BA,"communication,marketing,c++,ml,javascript",24,0
+110,Atharv Agarwal,23,F,ST,DL01,BSc CS,"java,python,c",1,0
+111,Nandini Mody,24,F,GEN,BR01,BSc CS,"python,c",20,1
+112,Tanveer Butala,24,F,ST,BR15,BCom,"excel,powerbi",8,1
+113,Ayaan Chauhan,24,F,ST,MH01,BA,"c,tableau,powerbi,finance,javascript",12,1
+114,Mekhala Balasubramanian,22,F,ST,BR01,Diploma,"c,css",17,2
+115,Falguni Gopal,23,F,SC,BR01,Diploma,"react,tableau,seo,css",0,1
+116,Aadhya Mannan,24,M,ST,BR12,MBA,"nodejs,finance",7,2
+117,Vasana Apte,24,F,OBC,MH01,BA,"powerbi,c++,react,tableau,finance",1,0
+118,Bakhshi Barad,23,F,ST,BR12,MBA,"java,ml,marketing,sql",3,2
+119,Madhav Amble,22,F,OBC,DL01,Diploma,"sales,finance,nodejs,css",4,1
+120,Sanaya Sachdev,22,F,SC,BR01,BCom,"communication,powerbi",9,2
+121,Jack Kurian,21,M,GEN,BR15,BA,"finance,seo,c++,css",16,2
+122,Vritti Murthy,22,F,ST,BR12,Diploma,"sql,finance",1,2
+123,Chasmum Radhakrishnan,24,F,GEN,DL01,BA,"excel,excel",24,1
+124,Lohit Zachariah,21,F,SC,BR01,BCom,"html,java",9,2
+125,Mugdha Bose,23,F,SC,BR01,BSc CS,"ml,sales,excel,powerbi,react",2,0
+126,Jagvi Sandal,20,M,SC,MH01,BA,"seo,nodejs",14,0
+127,Balendra Borra,24,M,GEN,BR15,BTech IT,"communication,ml,excel,css",16,1
+128,Atharv Sur,21,M,ST,BR15,Diploma,"finance,css,nodejs,excel",9,0
+129,Mugdha Keer,22,F,SC,DL01,MBA,"tableau,excel,sales,sql,java",17,0
+130,Vedhika Koshy,23,M,SC,DL01,MBA,"css,ml,c,sales",8,0
+131,Isaac Kibe,25,M,OBC,BR12,Diploma,"nodejs,ml,sales,javascript,excel",8,1
+132,Krishna Sant,24,M,ST,BR01,BSc CS,"ml,marketing",6,2
+133,Saumya Dyal,22,F,ST,BR01,BCom,"communication,html,sql,tableau,excel",8,1
+134,Hema Narula,20,M,GEN,MH01,BTech IT,"java,negotiation,sql,marketing,nodejs",16,2
+135,Yoshita Badal,24,M,ST,BR01,BA,"seo,sql,negotiation",3,1
+136,Anmol Ganguly,24,F,SC,BR12,BA,"c,communication,css,react",9,0
+137,Zaid Saini,21,F,ST,BR01,BTech IT,"ml,nodejs",15,1
+138,Damini Jaggi,25,F,ST,BR12,MBA,"excel,sql,javascript",13,1
+139,Sai Handa,21,M,SC,BR15,BCom,"ml,javascript,communication,c++,tableau",4,1
+140,Yochana Sant,24,F,GEN,DL01,BSc CS,"css,tableau,html",14,1
+141,Adweta Nair,24,M,ST,DL01,MBA,"marketing,sql,sales",3,0
+142,Isha Grover,21,F,OBC,MH01,Diploma,"powerbi,javascript",0,2
+143,Eta Balan,24,M,ST,BR15,BTech IT,"sql,finance",19,0
+144,Upkaar Dass,24,F,SC,BR15,BA,"css,excel",10,1
+145,Ati Jaggi,22,F,OBC,DL01,Diploma,"sql,react,communication,excel",18,0
+146,Pooja Hans,22,M,ST,BR12,BCom,"react,seo",9,1
+147,Kai Garde,23,M,GEN,BR15,MBA,"marketing,javascript,c,c++,html",17,0
+148,Bhavani Mitra,21,F,ST,BR12,BCom,"marketing,javascript,sql,c",22,0
+149,Jasmit Ranganathan,24,M,SC,BR01,BCom,"communication,tableau,c,excel,javascript",22,2
+150,Zarna Sibal,24,M,ST,BR15,BSc CS,"react,javascript,ml",7,2
+151,Bakhshi Ramanathan,24,F,GEN,BR01,BCom,"finance,sales,css,seo",24,1
+152,Libni Mody,25,M,OBC,BR12,MBA,"marketing,communication",20,1
+153,Krish Sura,24,M,GEN,DL01,BSc CS,"sales,react",6,1
+154,Ishanvi Sachdeva,22,M,GEN,MH01,BSc CS,"html,c++,sql,c",8,2
+155,Bhanumati Naik,22,F,SC,MH01,BSc CS,"c,negotiation,communication,css,powerbi",20,1
+156,Shaurya Sibal,22,M,ST,MH01,BTech IT,"sql,seo,marketing,css",1,2
+157,Riya Dara,23,M,SC,BR12,BTech IT,"python,sql",8,2
+158,Ekaraj Bawa,23,F,OBC,BR12,BA,"seo,marketing,javascript",23,2
+159,Benjamin Dayal,23,M,OBC,BR12,Diploma,"python,seo,java",11,1
+160,Chatresh Dua,22,M,OBC,BR12,BCom,"c,ml,seo",3,1
+161,Urmi Issac,23,M,SC,BR15,Diploma,"javascript,html",7,1
+162,Anthony Dugal,21,M,GEN,MH01,BSc CS,"excel,communication",19,1
+163,Ekansh Salvi,22,M,GEN,BR12,BCom,"react,ml,sql,negotiation,html",6,2
+164,Chatresh Mannan,20,M,SC,MH01,BTech IT,"communication,javascript,excel,c++,sql",1,1
+165,Isha Korpal,25,M,GEN,DL01,BSc CS,"finance,seo,communication",23,1
+166,Ojas Varty,25,F,GEN,BR15,BTech IT,"c,negotiation",19,0
+167,Adya Nazareth,20,M,SC,MH01,BSc CS,"negotiation,marketing,communication,python",24,0
+168,Xalak Loke,21,F,SC,MH01,Diploma,"java,communication,excel,sales,html",2,1
+169,Kai Rege,21,M,ST,BR01,BCom,"sales,marketing",14,1
+170,Agastya Munshi,25,M,SC,BR01,BTech IT,"tableau,excel,css,nodejs,c++",18,0
+171,Vedant Muni,22,F,SC,BR12,BTech IT,"c++,c,seo",2,2
+172,Urvi Mani,24,F,ST,MH01,BCom,"tableau,c++,marketing",13,2
+173,Alka Sur,21,M,GEN,MH01,Diploma,"react,excel,tableau,nodejs,c",19,2
+174,Anvi Agrawal,20,M,SC,BR12,Diploma,"c++,sales,negotiation",23,2
+175,Upma Hans,24,M,ST,BR15,Diploma,"communication,css",24,2
+176,Jeet Kumar,22,F,SC,BR12,Diploma,"negotiation,finance,excel",19,1
+177,Ikshita Pillai,25,M,ST,MH01,BCom,"tableau,finance,sales",2,2
+178,Anjali Seshadri,20,F,OBC,BR12,Diploma,"html,nodejs",3,2
+179,Urmi Keer,22,M,ST,BR12,BA,"nodejs,java,css",0,2
+180,Ryan Shukla,22,F,GEN,BR12,BTech IT,"negotiation,tableau,ml,python,react",1,1
+181,Faqid Madan,20,M,ST,BR15,BSc CS,"javascript,excel,excel,tableau",16,1
+182,Varsha Mann,25,M,GEN,BR01,BCom,"excel,finance",14,1
+183,Samar Kohli,21,F,GEN,BR12,BCom,"finance,sql",6,0
+184,Rehaan Karnik,21,M,ST,MH01,BA,"html,javascript,communication,excel,finance",13,2
+185,Chaitanya Rao,22,M,GEN,MH01,BTech IT,"ml,html,finance,java",11,2
+186,Neha Sachar,20,F,ST,MH01,BA,"nodejs,css,c++,excel",14,1
+187,Faris Chaudry,22,F,OBC,BR01,BTech IT,"ml,finance",0,2
+188,Jatin Bhat,21,M,GEN,DL01,MBA,"nodejs,html,ml",22,2
+189,Zilmil Nadkarni,23,F,GEN,MH01,BA,"finance,excel,ml,html",6,0
+190,Gayathri Brahmbhatt,22,F,GEN,MH01,BCom,"css,python",8,0
+191,Aarini Bhatnagar,21,M,OBC,DL01,BSc CS,"powerbi,excel",13,1
+192,Urmi Swaminathan,20,M,ST,DL01,BSc CS,"powerbi,c,excel,seo",11,0
+193,Sachi Murthy,22,M,SC,BR12,BA,"powerbi,sql,javascript,tableau,css",0,0
+194,Faris Mittal,20,F,ST,MH01,BSc CS,"react,marketing,python,seo",14,1
+195,Fiyaz Nair,21,M,GEN,BR15,Diploma,"tableau,ml,python,excel,powerbi",3,0
+196,Ryan Trivedi,20,M,GEN,BR12,Diploma,"nodejs,javascript,c",1,1
+197,Fitan Cheema,22,M,OBC,BR01,BA,"java,marketing,c,tableau",13,0
+198,Yadavi Lalla,21,M,OBC,BR15,BA,"excel,excel,seo,sales,ml",9,0
+199,Faqid Goyal,24,M,SC,MH01,BTech IT,"marketing,nodejs,c",12,1
+200,Zehaan Bhargava,25,M,ST,BR15,BA,"css,html,c,tableau",16,1
+201,Vritti Palan,23,F,SC,BR15,BA,"c,ml,powerbi",5,1
+202,Garima Mukhopadhyay,20,F,OBC,DL01,MBA,"excel,python,react",20,1
+203,Ladli Sarma,21,F,OBC,BR12,Diploma,"marketing,java,python,css",4,2
+204,Ojas Upadhyay,22,F,GEN,MH01,BA,"css,html,c++,ml",5,2
+205,Kavya Kade,21,M,SC,BR12,Diploma,"communication,marketing",10,0
+206,Lucky Gandhi,22,M,GEN,BR01,BA,"sql,javascript",14,1
+207,Yashasvi Golla,23,M,ST,BR01,BCom,"finance,c,sales,seo,marketing",16,2
+208,Warda Sheth,20,M,OBC,BR12,BSc CS,"python,powerbi",5,0
+209,Ladli Gara,25,M,ST,MH01,BCom,"sql,negotiation,seo,excel,html",11,0
+210,Hredhaan Shenoy,24,F,ST,BR15,BTech IT,"nodejs,ml,seo",3,0
+211,Bakhshi Sanghvi,23,M,ST,BR15,BTech IT,"react,tableau,html,c,javascript",18,2
+212,Benjamin Sura,23,F,ST,BR01,BSc CS,"python,c",21,1
+213,Mitali Talwar,21,F,SC,DL01,MBA,"tableau,c++,css,excel",7,0
+214,Keya Toor,21,F,SC,DL01,MBA,"css,python,communication,tableau",18,2
+215,Yadavi Chand,20,F,GEN,MH01,Diploma,"c,ml,python",0,1
+216,Ojas Pathak,20,F,ST,BR15,BTech IT,"python,javascript,c++,sql",20,2
+217,Xiti Seshadri,25,M,GEN,MH01,BA,"communication,html",2,0
+218,Nihal Chaudhuri,20,M,SC,BR15,Diploma,"html,c,marketing,communication,sql",6,2
+219,Lakshmi Modi,20,M,OBC,BR15,Diploma,"nodejs,excel,javascript,excel,negotiation",13,0
+220,Oscar Nath,21,F,SC,MH01,Diploma,"java,communication,sql",6,0
+221,Pranav Mittal,23,F,GEN,BR01,BA,"html,sales,java,powerbi,c++",15,2
+222,Vidhi Lad,25,F,SC,MH01,BSc CS,"sales,tableau,java,seo",20,1
+223,Aashi Mistry,20,F,ST,BR12,MBA,"excel,seo,java,sales,javascript",5,2
+224,Gautami Ravi,21,F,ST,DL01,MBA,"negotiation,html",19,0
+225,Matthew Bali,24,M,OBC,BR01,BCom,"nodejs,seo,c++",22,1
+226,Dhriti Kurian,20,M,GEN,BR15,BTech IT,"nodejs,marketing,java",18,2
+227,Timothy Chowdhury,21,F,SC,BR12,BCom,"finance,c,tableau",8,0
+228,Henry Raj,24,M,ST,BR15,Diploma,"negotiation,nodejs",19,0
+229,Janani Bhatnagar,21,F,GEN,DL01,MBA,"c++,css,finance,c",13,2
+230,Qushi Narang,23,F,GEN,BR01,MBA,"java,negotiation",8,2
+231,Wakeeta Sami,24,M,GEN,MH01,MBA,"seo,html",17,0
+232,Matthew Sachdev,24,F,GEN,MH01,BTech IT,"negotiation,python,sales,react,tableau",24,2
+233,Ethan Uppal,24,M,SC,MH01,BCom,"nodejs,react",2,1
+234,Radha Kakar,21,M,SC,DL01,BSc CS,"seo,powerbi",14,2
+235,Agastya Goyal,20,M,OBC,BR12,Diploma,"seo,tableau",13,2
+236,Gauri Kapoor,22,F,ST,BR01,BTech IT,"tableau,c,negotiation",5,0
+237,Jairaj Gandhi,24,M,ST,DL01,BSc CS,"python,tableau,javascript,html",9,0
+238,Gopal Virk,22,M,SC,BR01,BSc CS,"communication,powerbi,c",21,0
+239,Yutika Sura,21,F,GEN,BR12,BSc CS,"marketing,seo,negotiation",8,0
+240,Ekbal Lala,24,F,SC,BR12,MBA,"c++,finance,javascript,sales,marketing",4,0
+241,Sai Aggarwal,24,M,SC,BR15,BTech IT,"sales,css,excel,sql",12,1
+242,Ranbir Chacko,24,M,GEN,BR12,MBA,"communication,nodejs",13,0
+243,Yauvani Sahni,22,M,SC,BR01,BSc CS,"powerbi,javascript,c++,excel",15,1
+244,Arunima Balasubramanian,24,F,SC,MH01,BTech IT,"python,seo",9,1
+245,Nicholas Mandal,20,F,SC,BR15,BA,"c,seo,marketing,negotiation,powerbi",21,2
+246,Ati Borah,25,F,OBC,DL01,BCom,"excel,c++,seo",1,0
+247,Yoshita Gupta,22,M,OBC,BR01,BCom,"powerbi,javascript,negotiation",12,1
+248,Kamala Goda,22,M,SC,BR01,BA,"seo,tableau,html,sql,marketing",15,0
+249,Leela Kadakia,22,M,SC,BR15,Diploma,"marketing,negotiation,react",23,2
+250,Dalaja Khatri,24,F,OBC,BR12,BTech IT,"excel,negotiation,c++,tableau,seo",15,2
